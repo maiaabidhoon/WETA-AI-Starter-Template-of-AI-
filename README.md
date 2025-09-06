@@ -36,7 +36,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/maiaabidhoon/WETA-AI-Starter-Template-of-AI-.git
-cd <repo-name>
+cd WETA-AI-Starter-Template-of-AI-
 ```
 
 Install dependencies:
