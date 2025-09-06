@@ -56,7 +56,7 @@ python train.py
 To test / run inference:
 
 ```bash
-python predict.py
+python chat.py
 ```
 
 ---
