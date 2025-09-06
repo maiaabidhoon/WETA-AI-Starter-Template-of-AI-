@@ -35,7 +35,7 @@ This project is an experimental step towards understanding the fundamentals of *
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/maiaabidhoon/WETA-AI-Starter-Template-of-AI-.git
 cd <repo-name>
 ```
 
@@ -68,7 +68,7 @@ python chat.py
 Contributions are welcome!
 
 * Fork the repo
-* Create a new branch (`feature-xyz`)
+* Create a new branch
 * Commit your changes
 * Open a pull request 🚀
 
