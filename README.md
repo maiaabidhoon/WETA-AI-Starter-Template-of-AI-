@@ -19,11 +19,13 @@ This project is an experimental step towards understanding the fundamentals of *
 ## 📂 Project Structure
 
 ```
-├── src/            # Source code  
-├── data/           # Training / test dataset (if any)  
-├── models/         # Saved AI models  
-├── README.md       # Documentation  
-└── requirements.txt# Dependencies
+├── chat.py              # chat features  
+├── data.txt             # Training / test dataset (if any)  
+├── model.py             # Saved AI model  
+├── train.py             # training script
+├── generate.py          # generate brain 
+├── README.md            # Documentation  
+└── requirements.txt     # Dependencies
 ```
 
 ---
