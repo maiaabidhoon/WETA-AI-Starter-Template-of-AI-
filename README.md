@@ -72,16 +72,8 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – free to use and modify.
-
----
-
 ## 👨‍💻 Author
 
 Developed with ❤️ by **Aabid Husain (BaniDeveloper)**
 
 ---
-
-👉 Aabid, kya tum chahte ho mai is README me tumhare AI ke **specific details** (jaise model type – Neural Network, RL, Genetic Algorithm, ya kuch aur) daal dun taaki aur zyada professional lage?
