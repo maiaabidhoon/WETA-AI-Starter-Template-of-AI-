@@ -76,6 +76,6 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Aabid Husain (BaniDeveloper)**
+Developed with ❤️ by **Aabid Husain (Habibi) in MAT Lab** 
 
 ---
